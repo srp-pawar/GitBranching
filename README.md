@@ -1,1 +1,1 @@
-# GitBranchin
+# GitBranching
