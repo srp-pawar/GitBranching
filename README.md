@@ -1,2 +1,1 @@
-# GitBranching
-Introduction
+# GitBranchin
